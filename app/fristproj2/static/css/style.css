@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
+
 .background--custom {
 
     background-color: #000000;
@@ -24,5 +26,11 @@ canvas#canvas {
     --gradient-color-3: #7038FF;  
     --gradient-color-4: #DD27FF;
     --gradient-speed: 0.000006;
+
+}
+
+.h1{
+
+    font-family: "Source Code Pro";
 
 }
