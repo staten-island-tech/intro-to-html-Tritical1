@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
-
 .background--custom {
 
     background-color: #000000;
@@ -29,6 +27,18 @@ canvas#canvas {
 
 }
 
+html{
+
+    font-family: 'Source Code Pro', monospace;
+
+}
+
+head{
+    
+    font-weight: 500;
+
+}
+
 .h1{
 
     color: #FFFFFF;
@@ -40,6 +50,7 @@ canvas#canvas {
     align-self: right;
     margin-left: 50%;
     color: #FFFFFF;
+    font-weight: 200;
 
 }
 
