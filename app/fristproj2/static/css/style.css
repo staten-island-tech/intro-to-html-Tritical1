@@ -31,6 +31,14 @@ canvas#canvas {
 
 .h1{
 
-    font-family: "Source Code Pro";
+    color: white;
+
+}
+
+.body{
+
+    align-self: right;
+    margin-left: 50%;
+    color: white;
 
 }
