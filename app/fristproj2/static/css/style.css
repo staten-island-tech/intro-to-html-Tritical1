@@ -31,7 +31,7 @@ canvas#canvas {
 
 .h1{
 
-    color: white;
+    color: #FFFFFF;
 
 }
 
@@ -39,6 +39,12 @@ canvas#canvas {
 
     align-self: right;
     margin-left: 50%;
-    color: white;
+    color: #FFFFFF;
+
+}
+
+.image {
+
+    width: 35%;
 
 }
