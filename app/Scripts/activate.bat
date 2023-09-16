@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\dmose\OneDrive\Documents\GitHub\intro-to-html-Tritical1\app
+set VIRTUAL_ENV=C:\Users\tivb\Documents\GitHub\intro-to-html-Tritical1\app
 
 if not defined PROMPT set PROMPT=$P$G
 

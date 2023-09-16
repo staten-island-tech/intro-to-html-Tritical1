@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\dmose\OneDrive\Documents\GitHub\intro-to-html-Tritical1\app"
+VIRTUAL_ENV="C:\Users\tivb\Documents\GitHub\intro-to-html-Tritical1\app"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
